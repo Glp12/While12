@@ -1,0 +1,9 @@
+C:\Users\glebp\source\repos\While\While\bin\Debug\netstandard2.0\While.deps.json
+C:\Users\glebp\source\repos\While\While\bin\Debug\netstandard2.0\While.dll
+C:\Users\glebp\source\repos\While\While\bin\Debug\netstandard2.0\While.pdb
+C:\Users\glebp\source\repos\While\While\obj\Debug\netstandard2.0\While.csprojAssemblyReference.cache
+C:\Users\glebp\source\repos\While\While\obj\Debug\netstandard2.0\While.AssemblyInfoInputs.cache
+C:\Users\glebp\source\repos\While\While\obj\Debug\netstandard2.0\While.AssemblyInfo.cs
+C:\Users\glebp\source\repos\While\While\obj\Debug\netstandard2.0\While.csproj.CoreCompileInputs.cache
+C:\Users\glebp\source\repos\While\While\obj\Debug\netstandard2.0\While.dll
+C:\Users\glebp\source\repos\While\While\obj\Debug\netstandard2.0\While.pdb

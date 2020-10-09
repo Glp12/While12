@@ -1,0 +1,16 @@
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\WhileTest.dll
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\WhileTest.pdb
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\While.dll
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\While.pdb
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\glebp\source\repos\While\WhileTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\glebp\source\repos\While\WhileTest\obj\Debug\WhileTest.csprojAssemblyReference.cache
+C:\Users\glebp\source\repos\While\WhileTest\obj\Debug\WhileTest.csproj.CoreCompileInputs.cache
+C:\Users\glebp\source\repos\While\WhileTest\obj\Debug\WhileTest.csproj.CopyComplete
+C:\Users\glebp\source\repos\While\WhileTest\obj\Debug\WhileTest.dll
+C:\Users\glebp\source\repos\While\WhileTest\obj\Debug\WhileTest.pdb
